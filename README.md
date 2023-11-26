@@ -7,8 +7,9 @@ Para compilar el programa de progresion se necesita un excel
 puedes conseguir el que usamos nosotros aqui:
 
 
-  - [Excel](https://upeuedupe-my.sharepoint.com/:x:/g/personal/cristian_lara_upeu_edu_pe/ESCRpNiNmNlOgJ43bXo6JgcBN8FzzMdUEFQ0ER3QCoOgMQ?e=9bKoKc)
-  - [Data](https://upeuedupe-my.sharepoint.com/:x:/g/personal/cristian_lara_upeu_edu_pe/EQtKsY_IetNHsrRXf6-sjRQBlTYlgRvDwreOodcNKffcFw?e=UwxUkl)
+- :floppy_disk: [Excel](https://upeuedupe-my.sharepoint.com/:x:/g/personal/cristian_lara_upeu_edu_pe/ESCRpNiNmNlOgJ43bXo6JgcBN8FzzMdUEFQ0ER3QCoOgMQ?e=9bKoKc)
+- :bar_chart: [Data](https://upeuedupe-my.sharepoint.com/:x:/g/personal/cristian_lara_upeu_edu_pe/EQtKsY_IetNHsrRXf6-sjRQBlTYlgRvDwreOodcNKffcFw?e=UwxUkl)
+
 
 ## Despliegue
 
