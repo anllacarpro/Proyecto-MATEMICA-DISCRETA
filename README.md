@@ -1,4 +1,4 @@
-# Proyecto-MATEMICA-DISCRETA
+# Proyecto-MÉTODOS-NUMÉRICOS
 Sistemas lineales numéricos con Descomposición LU.  y regresión Lineal Simple
 
 ## Documentos
